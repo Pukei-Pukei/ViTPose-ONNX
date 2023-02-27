@@ -8,14 +8,21 @@ Easy inference for [ViTPose](https://github.com/ViTAE-Transformer/ViTPose) using
 ```
 pip install -r requirements.txt
 ```
+As you can see in 'requirements.txt', it requires only 5 libraries below  
+ - matplotlib  
+ - numpy  
+ - onnxruntime-gpu  
+ - opencv  
+ - yacs  
 
 ## Usage
-install
+### Install
 ```
 git clone https://github.com/Pukei-Pukei/ViTPose-ONNX.git
 cd ViTPose-ONNX
 pip install -r requirements.txt
 ```
+### Run
 Download [vitpose-b-multi-coco.onnx](https://drive.google.com/drive/folders/1v7tStPJqV4x9vgEW9l_mnwbEuw87exiq?usp=share_link) and [yolov6m.onnx](https://drive.google.com/file/d/1lZ251Y_oG0yNwgFW067HWKsSQAbiLdln/view?usp=share_link), then put them in ViTPose-ONNX folder  
 Run the commands below to start inference
 ```
@@ -30,7 +37,7 @@ python run.py -wc <webcam ID or URL>
 ```
 python run.py -cfg <config path> -vid <path_to_video>
 ```  
-example
+### Example
 ```
 python run.py -cfg configs/custom_config.py -vid dance.mp4 -s
 ```
