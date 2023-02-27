@@ -1,0 +1,5 @@
+matplotlib == 3.6.2
+numpy == 1.24.2
+onnxruntime-gpu == 1.13.1
+opencv-python == 4.7.0.68
+yacs == 0.1.8
