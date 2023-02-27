@@ -89,10 +89,10 @@ python run.py -cfg configs/custom_config.py -vid dance.mp4 -s
 
 ## Download ONNX file
 
-|Model   |ONNX       |Original Weight|
+|Model   |ONNX       |Original Weight for PyTorch|
 |:------:|:---------:|:-------------:|
-|ViTPose-B|[GoogleDrive](https://drive.google.com/drive/folders/1v7tStPJqV4x9vgEW9l_mnwbEuw87exiq?usp=share_link)|[Onedrive](https://1drv.ms/u/s!AimBgYV7JjTlgSrlMB093JzJtqq-?e=Jr5S3R)|
-|YOLOv6-M|[GoogleDrive](https://drive.google.com/file/d/1lZ251Y_oG0yNwgFW067HWKsSQAbiLdln/view?usp=share_link)|[Download](https://github.com/meituan/YOLOv6/releases/download/0.3.0/yolov6m.pt)|
+|[ViTPose-B](https://github.com/ViTAE-Transformer/ViTPose#results-from-this-repo-on-ms-coco-val-set-single-task-training)|[GoogleDrive](https://drive.google.com/drive/folders/1v7tStPJqV4x9vgEW9l_mnwbEuw87exiq?usp=share_link)|[Onedrive](https://1drv.ms/u/s!AimBgYV7JjTlgSrlMB093JzJtqq-?e=Jr5S3R)|
+|[YOLOv6-M](https://github.com/meituan/YOLOv6#benchmark)|[GoogleDrive](https://drive.google.com/file/d/1lZ251Y_oG0yNwgFW067HWKsSQAbiLdln/view?usp=share_link)|[Download](https://github.com/meituan/YOLOv6/releases/download/0.3.0/yolov6m.pt)|
 
 If you want other versions, refer to [Tutorial](https://pytorch.org/tutorials/advanced/super_resolution_with_onnxruntime.html) and get your own ONNX
 
