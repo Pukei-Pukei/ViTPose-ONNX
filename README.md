@@ -1,6 +1,8 @@
 # ViTPose-ONNX
 Easy inference for [ViTPose](https://github.com/ViTAE-Transformer/ViTPose) using ONNX  
-데모 gif  
+<p align="center">
+<img src="https://user-images.githubusercontent.com/105025612/221503731-ba87c70b-2422-4e53-a101-ad1bdd9bd3d4.gif">
+</p>
 
 ## Requirements
 ```
