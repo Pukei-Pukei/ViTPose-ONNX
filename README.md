@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ## Usage
 install
 ```
-git clone 링크
+git clone https://github.com/Pukei-Pukei/ViTPose-ONNX.git
 cd ViTPose-ONNX
 pip install -r requirements.txt
 ```
