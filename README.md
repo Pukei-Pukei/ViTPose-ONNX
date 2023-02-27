@@ -94,7 +94,7 @@ python run.py -cfg configs/custom_config.py -vid dance.mp4 -s
 |ViTPose-B|[GoogleDrive](https://drive.google.com/drive/folders/1v7tStPJqV4x9vgEW9l_mnwbEuw87exiq?usp=share_link)|[Onedrive](https://1drv.ms/u/s!AimBgYV7JjTlgSrlMB093JzJtqq-?e=Jr5S3R)|
 |YOLOv6-M|[GoogleDrive](https://drive.google.com/file/d/1lZ251Y_oG0yNwgFW067HWKsSQAbiLdln/view?usp=share_link)|[Download](https://github.com/meituan/YOLOv6/releases/download/0.3.0/yolov6m.pt)|
 
-If you want other versions, refer to [guide](https://pytorch.org/tutorials/advanced/super_resolution_with_onnxruntime.html) and get your own ONNX
+If you want other versions, refer to [Tutorial](https://pytorch.org/tutorials/advanced/super_resolution_with_onnxruntime.html) and get your own ONNX
 
 
 ## Acknowledgements
