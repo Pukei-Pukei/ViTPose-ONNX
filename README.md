@@ -34,6 +34,7 @@ example
 ```
 python run.py -cfg configs/custom_config.py -vid dance.mp4 -s
 ```
+'-s' for save option
 
 ## Options
 
