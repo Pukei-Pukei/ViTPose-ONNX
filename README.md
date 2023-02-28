@@ -12,7 +12,7 @@ As you can see in 'requirements.txt', it requires only 5 libraries below
  - matplotlib  
  - numpy  
  - onnxruntime-gpu  
- - opencv  
+ - opencv-python  
  - yacs  
 
 ## Usage
